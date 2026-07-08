@@ -6,7 +6,7 @@ url: https://francesssss.github.io
 baseurl: ""
 
 # Jekyll theme
-remote_theme: wowthemesnet/mundana-jekyll-theme
+theme: minima wowthemesnet/mundana-jekyll-theme
 
 # Build settings
 markdown: kramdown
