@@ -1,0 +1,18 @@
+title: Tech Blog
+description: My thoughts on AI and Tech developments
+author: Your Name
+email: your.email@example.com
+url: https://francesssss.github.io/tech-blog
+baseurl: /tech-blog
+
+# Jekyll theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Pagination (optional)
+paginate: 5
+paginate_path: /page:num/
