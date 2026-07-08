@@ -2,8 +2,8 @@ title: Francesca's Tech Blog
 description: My thoughts on AI and Tech developments
 author: Francesca Beaumont
 email: francescambeaumont@gmail.com
-url: https://francesssss.github.io/tech-blog
-baseurl: /tech-blog
+url: https://francesssss.github.io
+baseurl: ""
 
 # Jekyll theme
 remote_theme: wowthemesnet/mundana-jekyll-theme
