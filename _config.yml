@@ -11,6 +11,7 @@ remote_theme: wowthemesnet/mundana-jekyll-theme
 # Build settings
 markdown: kramdown
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Pagination (optional)
