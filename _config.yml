@@ -1,12 +1,12 @@
-title: Tech Blog
+title: Francesca's Tech Blog
 description: My thoughts on AI and Tech developments
-author: Your Name
-email: your.email@example.com
+author: Francesca Beaumont
+email: francescambeaumont@gmail.com
 url: https://francesssss.github.io/tech-blog
 baseurl: /tech-blog
 
 # Jekyll theme
-theme: minima
+remote_theme: wowthemesnet/mundana-jekyll-theme
 
 # Build settings
 markdown: kramdown
